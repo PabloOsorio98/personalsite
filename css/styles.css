@@ -1,0 +1,25 @@
+body {
+  background-color: #d3e0ea;
+}
+
+h1 {
+  color: #1687a7;
+  font: small-caps bold 24px/1 sans-serif;
+}
+
+h3 {
+  color: #1687a7;
+  font: small-caps bold 24px/1 sans-serif;
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #f6f5f5;
+  width: 5%;
+}
+
+img {
+  border-radius: 50%
+}
